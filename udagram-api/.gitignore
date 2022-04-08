@@ -29,7 +29,7 @@ plugins/ios.json
 $RECYCLE.BIN/
 postgres_dev/
 logfile
-
+www
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
