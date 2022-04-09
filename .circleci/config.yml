@@ -43,8 +43,7 @@ jobs:
 workflows:
   build-and-deploy:
     jobs:
-      - build:
+      - build
           branches:
             only:
               - main
-          
