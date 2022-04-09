@@ -43,8 +43,8 @@ jobs:
 workflows:
   build-and-deploy:
     jobs:
-      - build
-        filters:
-            branches:
-              only:
-                - main
+      - build:
+          branches:
+            only:
+              - main
+          
