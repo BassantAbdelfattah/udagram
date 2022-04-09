@@ -1,6 +1,6 @@
 # Udagram
 
-This application is provided by Udacity to deploy it to a cloud service provider
+This application is provided by Udacity to deploy it to a cloud service provider (AWS).
 
 ## Getting Started
 
